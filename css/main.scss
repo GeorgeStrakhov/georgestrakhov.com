@@ -1,0 +1,54 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "_uikit"
+;
+
+//custom variables
+$base-text-color: #000;
+$accent-color: #EF62E2;
+$inverse-accent-color: #FFF;
+
+// custom styles
+
+html, body {
+  font-family: "lato",sans-serif; 
+  font-weight: 300;
+  color: $base-text-color;
+}
+
+h1 {
+  font-family: "abolition-soft",sans-serif;
+  font-size: 5em;
+  line-height: 2em;
+  font-weight: 300;
+}
+
+p {
+  font-size: 1.8em;
+  line-height: 1.5em;
+}
+
+a {
+  color: $accent-color;
+  text-decoration: none;
+  border-bottom: 1px dotted $accent-color;
+  &:hover {
+    text-decoration: none;
+    color: $accent-color;
+    border-bottom: 1px solid $accent-color;
+  }
+}
+
+.logo-container {
+  width: 100%;
+}
+
+::selection {
+  background-color: $accent-color;
+  color: $inverse-accent-color;
+}
