@@ -8974,7 +8974,8 @@ html, body {
   font-feature-settings: "liga"; }
   @media screen and (max-width: 767px) {
     html, body {
-      background-color: #FAFAFA; } }
+      background-color: #FAFAFA;
+      padding-bottom: 30px; } }
 
 body.gs-body-colored {
   background-color: #FAFAFA;
@@ -9035,6 +9036,10 @@ p {
 
 p.gs-statement {
   text-align: justify; }
+  @media screen and (max-width: 767px) {
+    p.gs-statement {
+      padding-left: 20px;
+      padding-right: 20px; } }
 
 .gs-side-margins {
   margin-left: 50px;
