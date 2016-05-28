@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George Strakhov&#39;s Creative Midwifery</title>
+    <description>George Strakhov&#39;s home on the internets. Some rights reserved.
+</description>
+    <link>http://georgestrakhov.com/</link>
+    <atom:link href="http://georgestrakhov.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 28 May 2016 13:19:39 +0300</pubDate>
+    <lastBuildDate>Sat, 28 May 2016 13:19:39 +0300</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Unhammer - find the right tool for your creative job</title>
+        <description>&lt;h1 id=&quot;unhammer&quot;&gt;UNHAMMER&lt;/h1&gt;
+
+&lt;h2 id=&quot;find-the-right-tool-for-your-creative-job&quot;&gt;Find the right tool for your creative job&lt;/h2&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;We humans are toolmakers. That’s what makes us special. But our tools shape us as at least as much as we shape them. One of the negative implications of this fact is what I like to call “Hammer bias”: if the only tool you have is a hammer, then everything looks like a nail. If the only tool you have is Photoshop, then whatever the problem, pretty picture may look like a solution. If writing code is your thing, then software may look like the best solution to every problem. And it’s not always the case. That’s why I created &lt;a href=&quot;http://unhammer.co&quot;&gt;Unhammer&lt;/a&gt; - a crowdsourced (but curated!) repository of the best available tools for various creative tasks.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
+
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/unhammer-1.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;&quot;&gt;
+      &lt;img src=&quot;/images/posts/unhammer-1.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/unhammer-2.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;&quot;&gt;
+      &lt;img src=&quot;/images/posts/unhammer-2.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/unhammer-3.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;&quot;&gt;
+      &lt;img src=&quot;/images/posts/unhammer-3.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/unhammer-4.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;&quot;&gt;
+      &lt;img src=&quot;/images/posts/unhammer-4.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;“The best tool for the job” is subjective. Sometimes learning a new tool is not the optimal way to invest your time. But even if you forget about subjectivity for a moment, “the right tool for the job” is also a moving target. Grunt may have been the best JS task runner some time ago, but now it’s Gulp. New tools come up all the time. Having all the currently best tools available in one easily searchable space seems like a good idea.&lt;/p&gt;
+
+&lt;p&gt;The project is &lt;a href=&quot;https://github.com/GeorgeStrakhov/unhammer&quot;&gt;open source&lt;/a&gt;, hosted on Github Pages and works off Google Spreadsheets as a back-end. Your tool submissions and pull requests are more than welcome!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Apr 2016 10:03:19 +0300</pubDate>
+        <link>http://georgestrakhov.com/unhammer</link>
+        <guid isPermaLink="true">http://georgestrakhov.com/unhammer</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>TheyMade.Me - Standing on the shoulders of Giants</title>
+        <description>&lt;h1 id=&quot;theymademe&quot;&gt;THEYMADE.ME&lt;/h1&gt;
+
+&lt;h2 id=&quot;standing-on-the-shoulders-of-giants&quot;&gt;Standing on the shoulders of Giants&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p class=&quot;small red&quot;&gt;&lt;em&gt;
+Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#39;m working on it. In the meantime, please use Firefox to check this project out. Sorry for the inconvenience.
+&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;We are all &lt;a href=&quot;https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants&quot;&gt;standing on the shoulders of Giants&lt;/a&gt;: those who help us see further. But in our busy lives we don’t often get a chance to communicate with those giants, to get inspired by them again and again.
+&lt;a href=&quot;http://theymade.me&quot;&gt;TheyMade.Me&lt;/a&gt; is meant to change this.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;https://vimeo.com/133416110&quot; data-lightbox-type=&quot;video&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Project Intro Video&quot;&gt;
+      &lt;img src=&quot;/images/posts/tmm-vimeo-intro.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;https://theymade.me/George_Strakhov/profile&quot; data-lightbox-type=&quot;iframe&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;My Profile&quot;&gt;
+      &lt;img src=&quot;/images/posts/tmm-george-profile.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/tmm-mockup-tablet.jpg&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Mobile&quot;&gt;
+      &lt;img src=&quot;/images/posts/tmm-mockup-tablet.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;https://vimeo.com/133456995&quot; data-lightbox-type=&quot;video&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Getting Started Video&quot;&gt;
+      &lt;img src=&quot;/images/posts/tmm-vimeo-getting-started.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;You can think of it as of a mix between Wikipedia and Facebook. Here you get to choose your Giants and to follow them like you follow your friends on Facebook. You will receive bitesize updates from your Giants and they will continue to inspire you regularly.&lt;/p&gt;
+
+&lt;p&gt;Take a look at my very own &lt;a href=&quot;https://theymade.me/George_Strakhov/profile&quot;&gt;cultural DNA&lt;/a&gt; or &lt;a href=&quot;https://theymade.me/sign-up&quot;&gt;sign up&lt;/a&gt; to create your own.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 08 Apr 2016 10:03:19 +0300</pubDate>
+        <link>http://georgestrakhov.com/theymademe</link>
+        <guid isPermaLink="true">http://georgestrakhov.com/theymademe</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>CanWeMake.It - Experiment in combinatorial creativity</title>
+        <description>&lt;h1 id=&quot;canwemakeit&quot;&gt;canwemake.it&lt;/h1&gt;
+
+&lt;h2 id=&quot;experiment-in-combinatorial-creativity&quot;&gt;Experiment in combinatorial creativity&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I believe that &lt;a href=&quot;http://ideabank.io/george-strakhov/ahatech&quot;&gt;creativity is fundamentally combinatorial&lt;/a&gt;. And if it is indeed so, then how could we get machines (who are much better at combinatorial tasks) to help us be more creative?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;http://canwemake.it&quot; data-lightbox-type=&quot;iframe&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Canwemake.it demo&quot;&gt;
+      &lt;img src=&quot;/images/posts/cwmkit-2.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/cwmkit-1.png&quot; data-lightbox-type=&quot;image&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Canwemake.it&quot;&gt;
+      &lt;img src=&quot;/images/posts/cwmkit-1.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/cwmkit-2.png&quot; data-lightbox-type=&quot;image&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Canwemake.it&quot;&gt;
+      &lt;img src=&quot;/images/posts/cwmkit-3.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/cwmkit-4.png&quot; data-lightbox-type=&quot;image&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Canwemake.it&quot;&gt;
+      &lt;img src=&quot;/images/posts/cwmkit-4.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://canwemake.it&quot;&gt;Canwemake.it&lt;/a&gt; is a simple experiment to test if a combinatorial generator can help you come up with some interesting ideas for your next makre project. It generates a lot of really stupid ideas, but may be somewhere between them you will stumble upon a really intersting one. As Thomas Edison used to say, “To have a great idea, have a lot of them.”&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Mar 2016 10:03:19 +0300</pubDate>
+        <link>http://georgestrakhov.com/canwemakeit</link>
+        <guid isPermaLink="true">http://georgestrakhov.com/canwemakeit</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>story.fund - stories worth sharing</title>
+        <description>&lt;h1 id=&quot;storyfund&quot;&gt;STORY.FUND&lt;/h1&gt;
+
+&lt;h2 id=&quot;a-good-story-is-worth-a-thousand-charts&quot;&gt;A good story is worth a thousand charts&lt;/h2&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;As planners, strategists and consultants, we live off presentation slides. For every craftsman, his tools are an important asset. And stories have a big and special role in our toolbox. Fortunately stories, when shared, don’t dilute, but instead they grow and get better. &lt;a href=&quot;http://story.fund&quot;&gt;Story.fund&lt;/a&gt; is an attempt at collecting short stories that carry some meaning, potentially applicable in our professional lives.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
+
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/strfund-desktop.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Desktop&quot;&gt;
+      &lt;img src=&quot;/images/posts/strfund-desktop.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/strfund-mobile.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Single storey on mobile&quot;&gt;
+      &lt;img src=&quot;/images/posts/strfund-mobile.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/strfund-fb.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Single story on Facebook&quot;&gt;
+      &lt;img src=&quot;/images/posts/strfund-fb.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/strfund-twitter.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Twitter&quot;&gt;
+      &lt;img src=&quot;/images/posts/strfund-twitter.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I hope that more members of the thinking and planning community will join in, sharing their stories and growing our toolboxes together. Because sometimes a good story is worth a thousand charts, and sharing it in an easily presentable form (all pictures 16:9, ready for your powerpoints) can make a big difference.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://story.fund&quot;&gt;Story.fund&lt;/a&gt; website is built on top of Tumblr (custom theme), which is a perfect content hosting and distribution platform for such a project.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Feb 2016 10:03:19 +0300</pubDate>
+        <link>http://georgestrakhov.com/storyfund</link>
+        <guid isPermaLink="true">http://georgestrakhov.com/storyfund</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>OneSlide - applicable knowledge on one slide</title>
+        <description>&lt;h1 id=&quot;oneslide&quot;&gt;OneSlide&lt;/h1&gt;
+
+&lt;h2 id=&quot;applicable-knowledge-on-one-slide&quot;&gt;Applicable knowledge on one slide&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;blah&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
+
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/oneslide-desktop.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Desktop&quot;&gt;
+      &lt;img src=&quot;/images/posts/oneslide-desktop.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/oneslide-mobile.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Single storey on mobile&quot;&gt;
+      &lt;img src=&quot;/images/posts/oneslide-mobile.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/oneslide-fb.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;OneSlide on Facebook&quot;&gt;
+      &lt;img src=&quot;/images/posts/oneslide-fb.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/oneslide-twitter.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Twitter&quot;&gt;
+      &lt;img src=&quot;/images/posts/oneslide-twitter.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;blah&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Jan 2016 10:03:19 +0300</pubDate>
+        <link>http://georgestrakhov.com/oneslide</link>
+        <guid isPermaLink="true">http://georgestrakhov.com/oneslide</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>ICUDO - do what matters</title>
+        <description>&lt;h1 id=&quot;icudo&quot;&gt;Icudo&lt;/h1&gt;
+
+&lt;h2 id=&quot;do-what-matters&quot;&gt;Do what matters&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;blah&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
+
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/icudo-desktop.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Desktop&quot;&gt;
+      &lt;img src=&quot;/images/posts/icudo-desktop.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/icudo-mobile.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Single storey on mobile&quot;&gt;
+      &lt;img src=&quot;/images/posts/icudo-mobile.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/icudo-fb.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;OneSlide on Facebook&quot;&gt;
+      &lt;img src=&quot;/images/posts/icudo-fb.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
+    &lt;a href=&quot;/images/posts/icudo-twitter.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Twitter&quot;&gt;
+      &lt;img src=&quot;/images/posts/icudo-twitter.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;blah&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jan 2016 10:03:19 +0300</pubDate>
+        <link>http://georgestrakhov.com/icudo</link>
+        <guid isPermaLink="true">http://georgestrakhov.com/icudo</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+  </channel>
+</rss>

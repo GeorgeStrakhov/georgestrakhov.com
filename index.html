@@ -4,32 +4,49 @@ layout: default
 <div class="uk-grid gs-content-box">
   <div class="uk-width-medium-1-2 uk-width-large-1-3 uk-container-center uk-panel uk-panel-box gs-content">
     <div class="gs-logo-container">
-      <img src="{{ site.github.url}}/images/georgestrakhov_logo.svg" data-uk-svg style="width: 100%; height: 100%">
+      <div id="svg-logo-container" style="display:none;">
+        <!-- WTF?! I have to render it inline, if I include it via img tag it gets all screwed up. FIXME -->
+        {% include svglogo.html %}
+      </div>
+      <!-- this is fallback -->
+      <img src="{{site.github.url}}/images/georgestrakhov_logo.png" width="100%" height="100%" id="fallback-logo">
     </div>
 
     <h1>Hello, I am George</h1>
 
+    <!--
     <p class="gs-statement">
-    I help people give birth to beautiful ideas &amp; sometimes go into creative labour myself.
+    My practice revolves around <a href="{{site.github.url}}/experience">helping people give birth to ideas</a>. I call this Creative Midwifery. Occasionally I go into <a href="{{site.github.com}}/projects">creative labour myself</a>, with a little help from my friends.
+    </p>
+    -->
+    <p class="gs-statement">
+    My practice revolves around <a href="http://oneslide.org/post/145024348241/creative-midwifery" target="_blank">helping people give birth to ideas</a>. I call it Creative Midwifery. Occasionally I go into <a href="http://ideabank.io/george-strakhov" target="_blank">creative labour myself</a>, with a little help from my friends.
     </p>
     <p class="gs-statement">
-    I work as a managing partner of a boutique strategy &amp; innovation consultancy called <a href="http://ten-x.red" target="_blank">TEN-X</a>.
+    I work as a managing partner of a strategy &amp; innovation consultancy called <a href="http://ten-x.red" target="_blank">TEN-X</a>.
     </p>  
     <p class="gs-statement">
-    I am most interested in how ideas are born. Lately I've been thinking a lot about <a href="https://github.com/GeorgeStrakhov/subconscious" target="_blank">hybrid systems</a> for <a href="https://github.com/GeorgeStrakhov/dearteddy">problem solving</a> &amp; <a href="http://ideabank.io/george-strakhov/ahatech?idt=uwGceuYZO5X8Ng8yXdg0Vg">artificial creativity</a>.
-    </p>
-    <p class="statement">
-    The best way to learn who I am is to look at my <a href="http://theymade.me/George_Strakhov/profile" target="_blank">Cultural DNA</a>. You can also check out some of my <a href="{{ site.github.url }}/selected-client-experience">Client experience</a> and <a href="{{ site.github.url }}/projects">private projects</a>.
+    Lately I've been thinking a lot about <a href="https://github.com/GeorgeStrakhov/subconscious" target="_blank">hybrid systems</a> for <a href="https://github.com/GeorgeStrakhov/dearteddy" target="_blank">problem solving</a> &amp; <a href="http://ideabank.io/george-strakhov/ahatech?idt=uwGceuYZO5X8Ng8yXdg0Vg" target="_blank">artificial creativity</a>.
     </p>
     <p class="gs-statement">
-    Just in case, <a href="{{ site.github.url }}/cv" target="_blank">here</a> is my (slightly) more formal CV.
-    If you want to say hi, the best way to reach out is via <a href="mailto:george.strakhov@gmail.com">email</a>.
+    Gosh, that was a lot of "I"s, so please send me an <a href="mailto:george.strakhov@gmail.com">email</a> and introduce yourself as well. I'm curious to find out who you are and what brought you to my little corner of the Internet.
+    Just in case, <a href="{{ site.github.url }}/files/GeorgeStrakhov-CV-2016.pdf" target="_blank">here</a> is my (slightly) more formal CV.
     </p>
 
     <p class="gs-statement gs-signature">
-      May the force be with you,
+      May the Force be with you,
       <br>
       +G
     </p>
   </div>
 </div>
+
+<script src="{{site.github.url}}/js/logo_animation.js"></script>
+<script>
+  $( document ).ready(function(){
+    startIt();
+    $(window).smartresize(function(){
+      startIt();
+    });
+  });
+</script>

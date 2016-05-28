@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="gs-body-colored">
+    <a href="/" class="gs-linkback-container">
+      <img src="{{ site.github.url}}/images/stork_back.svg" data-uk-svg style="width: 100%; height: 100%">
+    </a>
+
+    <div class="gs-side-margins">
+      <h1 class="gs-top-margin">{{page.title}}</h1>
+      {{content}}
+      <!-- here goes hex coolness -->
+
+      <ul id="hexGrid">
+        {% for post in site.categories.project %}
+          <li class="hex">
+            <a class="hexIn" href="{{post.url}}">
+              <img src="{{ site.github.url}}/images/logos/{{post.logofile}}" alt="{{post.title}}" />
+              <h1>{{post.title}}</h1>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <a href="/" class="gs-linkback-container">
+      <img src="{{ site.github.url}}/images/stork_back.svg" data-uk-svg style="width: 100%; height: 100%">
+    </a>
+
+  </body>
+
+</html>

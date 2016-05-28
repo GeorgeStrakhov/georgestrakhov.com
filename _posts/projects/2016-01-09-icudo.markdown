@@ -1,0 +1,50 @@
+---
+layout: singleproject
+title:  ICUDO - do what matters
+date:   2016-01-09 10:03:19 +0300
+categories: project
+permalink: icudo
+projecttype: online
+projectlevel: prototype
+projectstatus: live
+logofile: icudo.gif
+---
+
+# Icudo
+
+## Do what matters
+
+--------
+
+blah
+
+--------
+
+<div class="uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container">
+
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/icudo-desktop.png" data-uk-lightbox="{group:'group1'}" title="Desktop">
+      <img src="{{site.github.url}}/images/posts/icudo-desktop.png" width="800" height="600" alt="">
+    </a>
+  </div>
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/icudo-mobile.png" data-uk-lightbox="{group:'group1'}" title="Single storey on mobile">
+      <img src="{{site.github.url}}/images/posts/icudo-mobile.png" width="800" height="600" alt="">
+    </a>
+  </div>
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/icudo-fb.png" data-uk-lightbox="{group:'group1'}" title="OneSlide on Facebook">
+      <img src="{{site.github.url}}/images/posts/icudo-fb.png" width="800" height="600" alt="">
+    </a>
+  </div>
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/icudo-twitter.png" data-uk-lightbox="{group:'group1'}" title="Twitter">
+      <img src="{{site.github.url}}/images/posts/icudo-twitter.png" width="800" height="600" alt="">
+    </a>
+  </div>
+
+</div>
+
+--------
+
+blah

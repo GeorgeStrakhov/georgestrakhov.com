@@ -1,0 +1,51 @@
+---
+layout: singleproject
+title:  Unhammer - find the right tool for your creative job
+date:   2016-04-08 10:03:19 +0300
+categories: project
+permalink: unhammer
+projecttype: online
+projectlevel: mvp
+projectstatus: live
+logofile: unhammer.gif
+---
+
+# UNHAMMER
+
+## Find the right tool for your creative job
+
+--------
+We humans are toolmakers. That's what makes us special. But our tools shape us as at least as much as we shape them. One of the negative implications of this fact is what I like to call "Hammer bias": if the only tool you have is a hammer, then everything looks like a nail. If the only tool you have is Photoshop, then whatever the problem, pretty picture may look like a solution. If writing code is your thing, then software may look like the best solution to every problem. And it's not always the case. That's why I created [Unhammer](http://unhammer.co) - a crowdsourced (but curated!) repository of the best available tools for various creative tasks.
+
+--------
+
+<div class="uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container">
+
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/unhammer-1.png" data-uk-lightbox="{group:'group1'}" title="">
+      <img src="{{site.github.url}}/images/posts/unhammer-1.png" width="800" height="600" alt="">
+    </a>
+  </div>
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/unhammer-2.png" data-uk-lightbox="{group:'group1'}" title="">
+      <img src="{{site.github.url}}/images/posts/unhammer-2.png" width="800" height="600" alt="">
+    </a>
+  </div>
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/unhammer-3.png" data-uk-lightbox="{group:'group1'}" title="">
+      <img src="{{site.github.url}}/images/posts/unhammer-3.png" width="800" height="600" alt="">
+    </a>
+  </div>
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/unhammer-4.png" data-uk-lightbox="{group:'group1'}" title="">
+      <img src="{{site.github.url}}/images/posts/unhammer-4.png" width="800" height="600" alt="">
+    </a>
+  </div>
+
+</div>
+
+--------
+
+"The best tool for the job" is subjective. Sometimes learning a new tool is not the optimal way to invest your time. But even if you forget about subjectivity for a moment, "the right tool for the job" is also a moving target. Grunt may have been the best JS task runner some time ago, but now it's Gulp. New tools come up all the time. Having all the currently best tools available in one easily searchable space seems like a good idea.
+
+The project is [open source](https://github.com/GeorgeStrakhov/unhammer), hosted on Github Pages and works off Google Spreadsheets as a back-end. Your tool submissions and pull requests are more than welcome!

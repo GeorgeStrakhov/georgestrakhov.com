@@ -1,0 +1,50 @@
+---
+layout: singleproject
+title:  OneSlide - applicable knowledge on one slide
+date:   2016-01-10 10:03:19 +0300
+categories: project
+permalink: oneslide
+projecttype: online
+projectlevel: 1.0
+projectstatus: live
+logofile: oneslide.gif
+---
+
+# OneSlide
+
+## Applicable knowledge on one slide
+
+--------
+
+blah
+
+--------
+
+<div class="uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container">
+
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/oneslide-desktop.png" data-uk-lightbox="{group:'group1'}" title="Desktop">
+      <img src="{{site.github.url}}/images/posts/oneslide-desktop.png" width="800" height="600" alt="">
+    </a>
+  </div>
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/oneslide-mobile.png" data-uk-lightbox="{group:'group1'}" title="Single storey on mobile">
+      <img src="{{site.github.url}}/images/posts/oneslide-mobile.png" width="800" height="600" alt="">
+    </a>
+  </div>
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/oneslide-fb.png" data-uk-lightbox="{group:'group1'}" title="OneSlide on Facebook">
+      <img src="{{site.github.url}}/images/posts/oneslide-fb.png" width="800" height="600" alt="">
+    </a>
+  </div>
+  <div class="gs-post-single-visual-link">
+    <a href="{{site.github.url}}/images/posts/oneslide-twitter.png" data-uk-lightbox="{group:'group1'}" title="Twitter">
+      <img src="{{site.github.url}}/images/posts/oneslide-twitter.png" width="800" height="600" alt="">
+    </a>
+  </div>
+
+</div>
+
+--------
+
+blah
