@@ -45,6 +45,7 @@ html, body {
   font-feature-settings:"liga";	
   @media #{$under-mobile} {
     background-color: $bg-alt-color;
+    padding-bottom: 30px;
   }
 }
 
@@ -113,6 +114,10 @@ p {
 
 p.gs-statement {
   text-align: justify;
+  @media #{$under-mobile} {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 }
 
 .gs-side-margins {
