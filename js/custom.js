@@ -9,6 +9,7 @@ var startIt = function() {
     $('#gs-bg-canvas').attr('width', window.innerWidth);
     $('#gs-bg-canvas').attr('height', window.innerHeight);
     startBgAnimation();
+    /* shitty animation doesn't work properly. to hell with it for now :(
     if(isChrome) {
       $('#fallback-logo').hide();
       $('#svg-logo-container').show();
@@ -17,6 +18,7 @@ var startIt = function() {
         storkAnimation.once(); //FIXME re-enable when ready
       },6000); //delay the first run to add surprise
     }
+    */
   }
 };
 
