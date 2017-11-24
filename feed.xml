@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>George Strakhov&#39;s Creative Midwifery</title>
-    <description>George Strakhov&#39;s home on the internets. Some rights reserved.
+    <title>George Strakhov's Creative Midwifery</title>
+    <description>George Strakhov's home on the internets. Some rights reserved.
 </description>
     <link>http://georgestrakhov.com/</link>
     <atom:link href="http://georgestrakhov.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Nov 2016 21:33:04 +0300</pubDate>
-    <lastBuildDate>Wed, 02 Nov 2016 21:33:04 +0300</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <pubDate>Fri, 24 Nov 2017 14:27:37 +0100</pubDate>
+    <lastBuildDate>Fri, 24 Nov 2017 14:27:37 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>Unhammer - find the right tool for your creative job</title>
@@ -24,22 +24,22 @@
 &lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
 
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/unhammer-1.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;&quot;&gt;
+    &lt;a href=&quot;/images/posts/unhammer-1.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;&quot;&gt;
       &lt;img src=&quot;/images/posts/unhammer-1.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/unhammer-2.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;&quot;&gt;
+    &lt;a href=&quot;/images/posts/unhammer-2.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;&quot;&gt;
       &lt;img src=&quot;/images/posts/unhammer-2.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/unhammer-3.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;&quot;&gt;
+    &lt;a href=&quot;/images/posts/unhammer-3.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;&quot;&gt;
       &lt;img src=&quot;/images/posts/unhammer-3.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/unhammer-4.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;&quot;&gt;
+    &lt;a href=&quot;/images/posts/unhammer-4.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;&quot;&gt;
       &lt;img src=&quot;/images/posts/unhammer-4.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
@@ -52,7 +52,7 @@
 
 &lt;p&gt;The project is &lt;a href=&quot;https://github.com/GeorgeStrakhov/unhammer&quot;&gt;open source&lt;/a&gt;, hosted on Github Pages and works off Google Spreadsheets as a back-end. Your tool submissions and pull requests are more than welcome!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 08 Apr 2016 10:03:19 +0300</pubDate>
+        <pubDate>Fri, 08 Apr 2016 09:03:19 +0200</pubDate>
         <link>http://georgestrakhov.com/unhammer</link>
         <guid isPermaLink="true">http://georgestrakhov.com/unhammer</guid>
         
@@ -70,7 +70,7 @@
 &lt;hr /&gt;
 
 &lt;p class=&quot;small red&quot;&gt;&lt;em&gt;
-Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#39;m working on it. In the meantime, please use Firefox to check this project out. Sorry for the inconvenience.
+Due to some technical issues the site doesn't currently work in Chrome. I'm working on it. In the meantime, please use Firefox to check this project out. Sorry for the inconvenience.
 &lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -82,25 +82,25 @@ Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#3
 
 &lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;https://vimeo.com/133416110&quot; data-lightbox-type=&quot;video&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Project Intro Video&quot;&gt;
+    &lt;a href=&quot;https://vimeo.com/133416110&quot; data-lightbox-type=&quot;video&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Project Intro Video&quot;&gt;
       &lt;img src=&quot;/images/posts/tmm-vimeo-intro.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;https://theymade.me/George_Strakhov/profile&quot; data-lightbox-type=&quot;iframe&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;My Profile&quot;&gt;
+    &lt;a href=&quot;https://theymade.me/George_Strakhov/profile&quot; data-lightbox-type=&quot;iframe&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;My Profile&quot;&gt;
       &lt;img src=&quot;/images/posts/tmm-george-profile.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/tmm-mockup-tablet.jpg&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Mobile&quot;&gt;
+    &lt;a href=&quot;/images/posts/tmm-mockup-tablet.jpg&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Mobile&quot;&gt;
       &lt;img src=&quot;/images/posts/tmm-mockup-tablet.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;https://vimeo.com/133456995&quot; data-lightbox-type=&quot;video&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Getting Started Video&quot;&gt;
+    &lt;a href=&quot;https://vimeo.com/133456995&quot; data-lightbox-type=&quot;video&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Getting Started Video&quot;&gt;
       &lt;img src=&quot;/images/posts/tmm-vimeo-getting-started.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
@@ -113,7 +113,7 @@ Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#3
 &lt;p&gt;Take a look at my very own &lt;a href=&quot;https://theymade.me/George_Strakhov/profile&quot;&gt;cultural DNA&lt;/a&gt; or &lt;a href=&quot;https://theymade.me/sign-up&quot;&gt;sign up&lt;/a&gt; to create your own.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 08 Apr 2016 10:03:19 +0300</pubDate>
+        <pubDate>Fri, 08 Apr 2016 09:03:19 +0200</pubDate>
         <link>http://georgestrakhov.com/theymademe</link>
         <guid isPermaLink="true">http://georgestrakhov.com/theymademe</guid>
         
@@ -136,25 +136,25 @@ Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#3
 
 &lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;http://canwemake.it&quot; data-lightbox-type=&quot;iframe&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Canwemake.it demo&quot;&gt;
+    &lt;a href=&quot;http://canwemake.it&quot; data-lightbox-type=&quot;iframe&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Canwemake.it demo&quot;&gt;
       &lt;img src=&quot;/images/posts/cwmkit-2.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/cwmkit-1.png&quot; data-lightbox-type=&quot;image&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Canwemake.it&quot;&gt;
+    &lt;a href=&quot;/images/posts/cwmkit-1.png&quot; data-lightbox-type=&quot;image&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Canwemake.it&quot;&gt;
       &lt;img src=&quot;/images/posts/cwmkit-1.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/cwmkit-2.png&quot; data-lightbox-type=&quot;image&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Canwemake.it&quot;&gt;
+    &lt;a href=&quot;/images/posts/cwmkit-2.png&quot; data-lightbox-type=&quot;image&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Canwemake.it&quot;&gt;
       &lt;img src=&quot;/images/posts/cwmkit-3.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/cwmkit-4.png&quot; data-lightbox-type=&quot;image&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Canwemake.it&quot;&gt;
+    &lt;a href=&quot;/images/posts/cwmkit-4.png&quot; data-lightbox-type=&quot;image&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Canwemake.it&quot;&gt;
       &lt;img src=&quot;/images/posts/cwmkit-4.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
@@ -164,7 +164,7 @@ Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#3
 
 &lt;p&gt;&lt;a href=&quot;http://canwemake.it&quot;&gt;Canwemake.it&lt;/a&gt; is a simple experiment to test if a combinatorial generator can help you come up with some interesting ideas for your next makre project. It generates a lot of really stupid ideas, but may be somewhere between them you will stumble upon a really intersting one. As Thomas Edison used to say, “To have a great idea, have a lot of them.”&lt;/p&gt;
 </description>
-        <pubDate>Wed, 16 Mar 2016 10:03:19 +0300</pubDate>
+        <pubDate>Wed, 16 Mar 2016 08:03:19 +0100</pubDate>
         <link>http://georgestrakhov.com/canwemakeit</link>
         <guid isPermaLink="true">http://georgestrakhov.com/canwemakeit</guid>
         
@@ -187,22 +187,22 @@ Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#3
 &lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
 
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/strfund-desktop.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Desktop&quot;&gt;
+    &lt;a href=&quot;/images/posts/strfund-desktop.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Desktop&quot;&gt;
       &lt;img src=&quot;/images/posts/strfund-desktop.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/strfund-mobile.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Single storey on mobile&quot;&gt;
+    &lt;a href=&quot;/images/posts/strfund-mobile.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Single storey on mobile&quot;&gt;
       &lt;img src=&quot;/images/posts/strfund-mobile.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/strfund-fb.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Single story on Facebook&quot;&gt;
+    &lt;a href=&quot;/images/posts/strfund-fb.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Single story on Facebook&quot;&gt;
       &lt;img src=&quot;/images/posts/strfund-fb.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/strfund-twitter.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Twitter&quot;&gt;
+    &lt;a href=&quot;/images/posts/strfund-twitter.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Twitter&quot;&gt;
       &lt;img src=&quot;/images/posts/strfund-twitter.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
@@ -215,7 +215,7 @@ Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#3
 
 &lt;p&gt;&lt;a href=&quot;http://story.fund&quot;&gt;Story.fund&lt;/a&gt; website is built on top of Tumblr (custom theme), which is a perfect content hosting and distribution platform for such a project.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 08 Feb 2016 10:03:19 +0300</pubDate>
+        <pubDate>Mon, 08 Feb 2016 08:03:19 +0100</pubDate>
         <link>http://georgestrakhov.com/storyfund</link>
         <guid isPermaLink="true">http://georgestrakhov.com/storyfund</guid>
         
@@ -239,22 +239,22 @@ Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#3
 &lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
 
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/oneslide-desktop.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Desktop&quot;&gt;
+    &lt;a href=&quot;/images/posts/oneslide-desktop.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Desktop&quot;&gt;
       &lt;img src=&quot;/images/posts/oneslide-desktop.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/oneslide-mobile.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Single storey on mobile&quot;&gt;
+    &lt;a href=&quot;/images/posts/oneslide-mobile.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Single storey on mobile&quot;&gt;
       &lt;img src=&quot;/images/posts/oneslide-mobile.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/oneslide-fb.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;OneSlide on Facebook&quot;&gt;
+    &lt;a href=&quot;/images/posts/oneslide-fb.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;OneSlide on Facebook&quot;&gt;
       &lt;img src=&quot;/images/posts/oneslide-fb.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/oneslide-twitter.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Twitter&quot;&gt;
+    &lt;a href=&quot;/images/posts/oneslide-twitter.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Twitter&quot;&gt;
       &lt;img src=&quot;/images/posts/oneslide-twitter.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
@@ -265,7 +265,7 @@ Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#3
 
 &lt;p&gt;blah&lt;/p&gt;
 </description>
-        <pubDate>Sun, 10 Jan 2016 10:03:19 +0300</pubDate>
+        <pubDate>Sun, 10 Jan 2016 08:03:19 +0100</pubDate>
         <link>http://georgestrakhov.com/oneslide</link>
         <guid isPermaLink="true">http://georgestrakhov.com/oneslide</guid>
         
@@ -289,22 +289,22 @@ Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#3
 &lt;div class=&quot;uk-grid uk-grid-width-medium-1-4 gs-post-visuals-container&quot;&gt;
 
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/icudo-desktop.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Desktop&quot;&gt;
+    &lt;a href=&quot;/images/posts/icudo-desktop.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Desktop&quot;&gt;
       &lt;img src=&quot;/images/posts/icudo-desktop.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/icudo-mobile.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Single storey on mobile&quot;&gt;
+    &lt;a href=&quot;/images/posts/icudo-mobile.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Single storey on mobile&quot;&gt;
       &lt;img src=&quot;/images/posts/icudo-mobile.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/icudo-fb.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;OneSlide on Facebook&quot;&gt;
+    &lt;a href=&quot;/images/posts/icudo-fb.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;OneSlide on Facebook&quot;&gt;
       &lt;img src=&quot;/images/posts/icudo-fb.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&quot;gs-post-single-visual-link&quot;&gt;
-    &lt;a href=&quot;/images/posts/icudo-twitter.png&quot; data-uk-lightbox=&quot;{group:&#39;group1&#39;}&quot; title=&quot;Twitter&quot;&gt;
+    &lt;a href=&quot;/images/posts/icudo-twitter.png&quot; data-uk-lightbox=&quot;{group:'group1'}&quot; title=&quot;Twitter&quot;&gt;
       &lt;img src=&quot;/images/posts/icudo-twitter.png&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;&quot; /&gt;
     &lt;/a&gt;
   &lt;/div&gt;
@@ -315,7 +315,7 @@ Due to some technical issues the site doesn&#39;t currently work in Chrome. I&#3
 
 &lt;p&gt;blah&lt;/p&gt;
 </description>
-        <pubDate>Sat, 09 Jan 2016 10:03:19 +0300</pubDate>
+        <pubDate>Sat, 09 Jan 2016 08:03:19 +0100</pubDate>
         <link>http://georgestrakhov.com/icudo</link>
         <guid isPermaLink="true">http://georgestrakhov.com/icudo</guid>
         
