@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+
+    <title>END/LESS</title>
+
+    <meta name="description" content="a circular, cumulative bedtime story about life, death and the endless flow of all things">
+    <meta name="author" content="George Strakhov">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+  </head>
+
+  <body>
+    <main role="main">
+
+      <div class="album py-4">
+        <div class="container">
+
+          <div class="row">
+            <div class="endless-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+              <h1 class="display-4">END/LESS</h1>
+              <p class="lead">a circular, cumulative bedtime story about life, death and the endless flow of all things</p>
+            </div>
+          </div>
+
+          <div class="row py-3">
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img class="card-img-top" src="img/videothumb.jpg" id="videothumb">
+                <div class="card-body">
+                  <p class="card-text mycard-caption">Watch the video walk-through</p>
+                  <div class="text-center">
+                    <div class="btn-group">
+                      <button type="button" data-toggle="modal" data-toggle="modal" data-src="https://www.youtube.com/embed/PkteGStAcVg" data-target="#myModal" class="btn btn-sm btn-outline-secondary video-btn" id="defaultVideoBtn">English</button>
+                      <button type="button" data-toggle="modal" data-src="https://www.youtube.com/embed/LSE_zh48jNE" data-target="#myModal" class="btn btn-sm btn-outline-secondary video-btn">Russian</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img class="card-img-top" src="img/mapthumb.jpg" id="mapthumb">
+                <div class="card-body">
+                  <p class="card-text mycard-caption">Explore the interactive map</p>
+                  <div class="text-center">
+                    <div class="btn-group">
+                      <a href="world/" class="btn btn-sm btn-outline-secondary">English</a>
+                      <a href="world/?lang=ru" class="btn btn-sm btn-outline-secondary">Russian</a>
+                      <a href="world/?lang=fr" class="btn btn-sm btn-outline-secondary">French</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img class="card-img-top" src="img/bookthumb.jpg" id="bookthumb">
+                <div class="card-body">
+                  <p class="card-text mycard-caption">Get the endless book</p>
+                  <div class="text-center">
+                    <div class="btn-group">
+                      <a href="https://forms.gle/FqtesXt4Je8ABFiR9" target="_blank" id="preorderLink" class="btn btn-sm btn-outline-secondary">Preorder</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </main>
+
+    <footer class="text-muted">
+      <div class="container text-center">
+        <p>END/LESS &copy; 2020</p>
+        <p>Artwork by Oksana Mazur. Concept, text, music, technology by George Strakhov.</p>
+        <p>French translation by Melanie Vignon. Voiceover by Kening Zhu and Tatiana Mrdulyash. Project Management by Anastasia Nesvizhsky.</p>
+      </div>
+    </footer>
+
+    <!-- video Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog bg-light" role="document" style="max-width: 900px;">
+        <div class="modal-content">
+
+          <div class="modal-body">
+
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            <!-- 16:9 aspect ratio -->
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="" id="video"  allowscriptaccess="always" allow="autoplay" allowfullscreen></iframe>
+            </div>
+
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.bundle.min.js" integrity="sha512-kBFfSXuTKZcABVouRYGnUo35KKa1FBrYgwG4PAx7Z2Heroknm0ca2Fm2TosdrrI356EDHMW383S3ISrwKcVPUw==" crossorigin="anonymous"></script>
+    <script src="js/custom.js"></script>
+        
+  </body>
+</html>

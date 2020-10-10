@@ -1,0 +1,64 @@
+html, body {
+  background-color: #030305;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+main {
+  background: url(../img/cover33.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.modal-body {
+  position:relative;
+  padding:0px;
+}
+
+@media (max-width: 577px) {
+  .mymodal-dialog {
+    max-width: 100%;
+    margin: 0;
+  }
+}
+
+.close {
+  position:absolute;
+  right:-30px;
+  top:0;
+  z-index:999;
+  font-size:2rem;
+  font-weight: normal;
+  color:#fff;
+  opacity:1;
+}
+
+footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #030305;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+.mycard-caption {
+  text-align: center;
+  font-weight: bold;
+}
+
+.endless-header {
+  color: #fff;
+}
+
+p.lead {
+  color: #ccc;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+}
