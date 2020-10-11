@@ -68,6 +68,25 @@
 "At the end of us there are good stories",
 "At the end of stories come good nights"
       ];
+
+      var poemLinesFR = [
+"Après la nuit vient l’aurore",
+"Après l’aurore tombent les gouttes de pluie",
+"Après la pluie poussent des brins d’herbes",
+"Une fois l’herbe poussée coule du lait frais",
+"Après le lait sont servis les gâteaux de grand-mère",
+"Des gâteaux restent des miettes",
+"Des miettes s’élèvent des chants d’oiseaux",
+"Au-delà des chants, le silence",
+"Au-delà du silence s’élèvent des montagnes",
+"Au-delà des montagnes planent des nuages",
+"Au-delà des nuages s’étend le paradis",
+"Au-delà du paradis brillent les étoiles chatoyantes",
+"Au-delà des étoiles ne reste que leur poussière",
+"Au-delà de la poussière d’étoile il y a nous",
+"A la fin de nous demeurent les histoires",
+"Une fois nos histoires racontées s’ensuivent de bonnes nuits"
+      ];
       
       //get url params
       var getParams = function (url) {
@@ -90,6 +109,11 @@
       if (urlParams.lang == 'ru') {
         poemLines = poemLinesRU;
         window.document.title = 'ВСЕ/ПРОЙДЕТ';
+      }
+
+      if (urlParams.lang == 'fr') {
+        poemLines = poemLinesFR;
+        window.document.title = 'PERPETUEL';
       }
 
       mapInit('mapid', poemLines);
