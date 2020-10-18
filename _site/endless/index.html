@@ -12,6 +12,9 @@
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
 
+    <!-- fontawesome -->
+    <script src="https://kit.fontawesome.com/156f6ddb3d.js" crossorigin="anonymous"></script>
+
     <title>END/LESS</title>
 
     <meta name="description" content="a circular, cumulative bedtime story about life, death and the endless flow of all things">
@@ -48,7 +51,14 @@
           <div class="row py-3">
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img class="card-img-top" src="img/videothumb.jpg" id="videothumb">
+                <div class="card bg-dark text-white" id="videothumb">
+                  <img class="card-img" src="img/videothumb_2.jpg">
+                  <div class="card-img-overlay text-light">
+                    <div class="action-icon-full d-flex justify-content-center align-items-center">
+                      <i class="fas fa-play"></i>
+                    </div>
+                  </div>
+                </div>
                 <div class="card-body">
                   <p class="card-text mycard-caption">Watch the video walk-through</p>
                   <div class="text-center">
@@ -62,7 +72,14 @@
             </div>
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img class="card-img-top" src="img/mapthumb.jpg" id="mapthumb">
+                <div class="card bg-dark text-white" id="mapthumb">
+                  <img class="card-img" src="img/mapthumb_2.jpg">
+                  <div class="card-img-overlay text-light">
+                    <div class="action-icon-full d-flex justify-content-center align-items-center">
+                      <i class="fas fa-map-marked-alt"></i>
+                    </div>
+                  </div>
+                </div>
                 <div class="card-body">
                   <p class="card-text mycard-caption">Explore the interactive map</p>
                   <div class="text-center">
@@ -77,7 +94,14 @@
             </div>
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img class="card-img-top" src="img/bookthumb.jpg" id="bookthumb">
+                <div class="card bg-dark text-white" id="bookthumb">
+                  <img class="card-img" src="img/bookthumb_2.jpg">
+                  <div class="card-img-overlay text-light">
+                    <div class="action-icon-full d-flex justify-content-center align-items-center">
+                      <i class="fas fa-book-open"></i>
+                    </div>
+                  </div>
+                </div>
                 <div class="card-body">
                   <p class="card-text mycard-caption">Get the endless book</p>
                   <div class="text-center">
@@ -92,6 +116,17 @@
         </div>
       </div>
 
+      <div class="container">
+        <div class="row justify-content-md-center">
+          <div class="col-md-10 text-center">
+            <!-- Button trigger modal -->
+            <button type="button" class="btn btn-link about-trigger-link" data-toggle="modal" data-target="#aboutModal">
+              Yes, but why?
+            </button>
+          </div>
+        </div>
+      </div>
+
     </main>
 
     <footer class="text-muted">
@@ -101,6 +136,35 @@
         <p>French translation by Melanie Vignon. Voiceover by Kening Zhu and Tatiana Mrdulyash. Project Management by Anastasia Nesvizhsky.</p>
       </div>
     </footer>
+
+    <!-- about Modal -->
+    <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header justify-content-center">
+            <h2 class="modal-title text-weight-bold" id="exampleModalLabel">Yes, but why?</h2>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-md-12 py-4 px-4">
+                  <p>One of the things that bug me the most about modern western civilization is it’s obsession with linearity - with epic beginnings (big bang, startups etc.) and epic endings (fear of death, movies about the end of the world, saving the world etc.) Everything seems to be about starting and finishing. There is also an obsession with 'changing the world', while very little attention goes to 'keeping the ever-changing world'.</p>
+                  <p>In order to give kids a slightly more balanced perspective, I wanted to create an endless story that focuses on interconnectedness, circularity and flow in all things. I hope the story will foster conversations between kids and their parents about how death is a part of life and how everything is constantly changing and evolving in this wonderful world. I hope these kids will grow up less afraid of death and more aware of the beautifully interconnected world, of which they are a natural and integral part.</p>
+                </div>
+              </div>
+            </div>
+            <div class="modal-footer justify-content-center">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Got it</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- // about Modal -->
 
     <!-- video Modal -->
     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -123,6 +187,8 @@
         </div>
       </div>
     </div>
+
+    <!-- // Video modal -->
 
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
